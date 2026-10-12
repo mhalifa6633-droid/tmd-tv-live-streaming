@@ -1,2 +1,10 @@
-# tmd-tv-live-streaming
-Android APK application for TMD TV Live streaming
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TMDTVLive" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>
